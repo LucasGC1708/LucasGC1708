@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/lucas-cruz-421459246/">
     <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=a855f7">
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:lucasggc19@gmail.com">
     <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=a855f7">
   </a>
 </p>
@@ -69,5 +69,5 @@ Kafnet (Startup Softhouse)
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/  
-- Email: seuemail@email.com
+- LinkedIn: https://www.linkedin.com/in/lucas-cruz-421459246/
+- Email: lucasggc19@gmail.com
