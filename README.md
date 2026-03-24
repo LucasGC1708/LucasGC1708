@@ -71,9 +71,10 @@ Kafnet (Startup Softhouse)
 
 ## Atualmente
 
-- Aprimorando conhecimentos em arquitetura de software  
-- Evoluindo como desenvolvedor Full Stack  
-- Estudando boas práticas e padrões de mercado  
+- Aprofundando arquitetura de software (MVC, separação de responsabilidades e organização em camadas)  
+- Evoluindo no desenvolvimento de APIs REST com Node.js e Express  
+- Estudando padrões de projeto e boas práticas para aplicações escaláveis  
+- Focado na escrita de código limpo, manutenível e bem estruturado  
 
 ---
 
