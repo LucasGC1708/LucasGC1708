@@ -43,12 +43,22 @@ Desenvolvedor Full Stack com formação em Sistemas de Informação e experiênc
 **Desenvolvedor Full Stack**  
 Kafnet (Startup Softhouse)
 
-- Desenvolvimento e manutenção de sistemas web  
-- Criação de APIs REST  
-- Integração entre sistemas  
-- Implementação de melhorias e novas funcionalidades  
+- Desenvolvimento e manutenção de sistemas web utilizados internamente e por clientes  
+- Criação e evolução de APIs REST utilizando Node.js e PHP  
+- Integração entre sistemas e serviços externos  
+- Implementação de novas funcionalidades e melhorias contínuas em sistemas existentes  
+- Organização e estruturação de projetos seguindo boas práticas (MVC e separação de responsabilidades)  
+- Suporte na identificação e correção de bugs, garantindo estabilidade das aplicações  
 
 ---
+
+## Diferenciais
+
+- Experiência prática no desenvolvimento de APIs REST  
+- Vivência com integração entre sistemas e manipulação de dados  
+- Conhecimento em arquitetura MVC e organização de código  
+- Facilidade em aprender novas tecnologias e se adaptar a diferentes cenários  
+- Foco em desenvolvimento de soluções escaláveis e bem estruturadas 
 
 ## GitHub Stats
 
